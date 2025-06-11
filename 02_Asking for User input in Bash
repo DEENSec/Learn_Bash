@@ -1,9 +1,9 @@
-02_Asking for User Input in Bash
+02_Asking for User Input in Bash =========================================================
 
 Why use user input?
 Bash scripts become powerful when they interact with users. Using read, we can prompt users for input and store their responses in variables.
 
-📜 Script Example
+Script Example ---------------------------------------------------------------------------
 
 #!/bin/bash
 
@@ -17,7 +17,7 @@ read lastname
 # Output the full name
 echo "Hello, $firstname $lastname!"
 
-🧠 Explanation
+Explanation -------------------------------------------------------------------------------
 
 | Command     | Description                                    |
 | ----------- | ---------------------------------------------- |
@@ -25,7 +25,7 @@ echo "Hello, $firstname $lastname!"
 | `read var`  | Waits for user input and stores it in `var`    |
 | `$variable` | Used to display the value stored in a variable |
 
-🧪 Try It Yourself
+Try It Yourself ----------------------------------------------------------------------------
 
 1.Save the script as name_input.sh.
 
