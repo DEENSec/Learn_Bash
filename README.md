@@ -4,7 +4,7 @@ This page contains Bash scripting notes. Newbies can use these notes to improve 
 
 
 
-## 🔹Bash Scripting Starter
+## 🔰Bash Scripting Starter
 
 ### What is this?
 Every Bash script must start with a shebang (#!) line to tell the system which interpreter to use.
