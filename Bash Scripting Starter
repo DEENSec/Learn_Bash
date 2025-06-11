@@ -42,11 +42,7 @@ chmod +x hello.sh
 
 06 Run it
 
-tip
 
-Use #!/usr/bin/env bash if you're writing scripts that need to be portable across different systems (e.g., not all have /bin/bash).
-
-#!/usr/bin/env bash
 
 
 
