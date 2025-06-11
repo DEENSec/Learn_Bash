@@ -4,7 +4,7 @@ This page contains Bash scripting notes. Newbies can use these notes to improve 
 
 
 
-## 🔹__Bash Scripting Starter__
+## 🔹Bash Scripting Starter
 
 ### What is this?
 Every Bash script must start with a shebang (#!) line to tell the system which interpreter to use.
@@ -27,24 +27,30 @@ This line tells your system to use the Bash shell (located at /bin/bash) to run 
 ### 🔹Try It Yourself
 
 
-01. open a terminal.
+🟢 step 01: open a terminal.
 
-02. Create a script.
+🟢 Step 02: Create a script.
 
-🟢 nano hello.sh
+          nano hello.sh
 
-03. Add.
+🟢 Step 03: Add this code inside the file
 
-#!/bin/bash
-echo "Hello, world!"
+         #!/bin/bash
+         echo "Hello, world!"
 
-04. Save and exit (Ctrl+X, then Y, then Enter).
+🟢 step 04: Save and exit (Ctrl+X, then Y, then Enter).
 
-05. Make it executable
+🟢 step 05: Make it executable
 
-🟢 chmod +x hello.sh
+        chmod +x hello.sh
 
-06. Run it
+🟢 step 06: Run it
+
+        ./hello.sh
+
+#### 🔴Output
+
+    Hello, world!
 
 ## 🔹Tip
 
