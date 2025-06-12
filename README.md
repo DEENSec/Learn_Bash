@@ -52,7 +52,7 @@ This line tells your system to use the Bash shell (located at /bin/bash) to run 
 
     Hello, world!
 
-## 🔹Tip
+### 🔹Tip
 
 Use #!/usr/bin/env bash if you're writing scripts that need to be portable across different systems (e.g., not all have /bin/bash).
 
