@@ -107,7 +107,7 @@ Bash scripts become powerful when they interact with users. Using read, we can p
     First name: jhon  
     Last name: alex  
 
-🟢 step 05: You'll see 
+🔴 step 05: You'll see 
 
     Hello, jhon alex!
 
