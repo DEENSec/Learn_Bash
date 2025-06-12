@@ -62,6 +62,9 @@ Use #!/usr/bin/env bash if you're writing scripts that need to be portable acros
 
 
 
+
+
+
 ## 02. Asking for User Input in Bash
 
 ### Why use user input?
