@@ -4,7 +4,7 @@ This page contains Bash scripting notes. Newbies can use these notes to improve 
 
 
 
-## 01. Bash Scripting Starter
+## 01. Bash Scripting Starter ========================================================================================================================
 
 ### What is this?
 Every Bash script must start with a shebang (#!) line to tell the system which interpreter to use.
@@ -65,7 +65,7 @@ Use #!/usr/bin/env bash if you're writing scripts that need to be portable acros
 
 
 
-## 02. Asking for User Input in Bash
+## 02. Asking for User Input in Bash ========================================================================================================================
 
 ### Why use user input?
 Bash scripts become powerful when they interact with users. Using read, we can prompt users for input and store their responses in variables.
